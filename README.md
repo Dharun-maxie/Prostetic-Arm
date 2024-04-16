@@ -32,7 +32,7 @@ The prosthetic arm is designed to match the amputee's skin tone and fit their re
 
 The prototype of our product incorporates the following components:
 
-- 3D Printed Arm (STL files provided)
+- 3D Printed Arm (STL files attached)
 - Servo Motors
 - EMG Sensors
 - Arduino Board
